@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a 1st year student at PSIT Kanpur with dream to unturn every stone on earth.
+I love Android Development from the bottom of my heart and spend tons of hours over it.
+
