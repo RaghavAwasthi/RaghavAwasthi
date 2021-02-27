@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghav Awasthi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Android developer from India</h3>
+<h4 align="center"> I am an 18 year old Computer Science Engineering student from PSIT Kanpur I am self taught Android developer, I love to host workshops and Technical Events I love Open Source. Most of it started by myself which can be found from my GitHub profile. Other than this, I love Music 🎵.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavawasthi&label=Profile%20views&color=0e75b6&style=flat" alt="raghavawasthi" /> </p>
 
